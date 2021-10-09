@@ -1,0 +1,6 @@
+posts_dir:
+  "_posts"
+production_dir:
+  "web"
+resources_dir:
+  "_resources"
